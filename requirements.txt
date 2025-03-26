@@ -1,0 +1,7 @@
+File ini berisi daftar pustaka Python yang dibutuhkan untuk menjalankan tes.
+
+**Buat file `requirements.txt` dengan isi berikut:**
+```txt
+behave
+selenium
+webdriver-manager
