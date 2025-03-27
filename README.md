@@ -18,7 +18,7 @@ behave
 
 ## 📂 Struktur Proyek
 ```
-saucedemo_test_automation/
+saucedemo-behave-test/
 │-- features/
 │   │-- saucedemo.feature       # File skenario Gherkin
 │   │-- environment.py          # Setup & teardown WebDriver
