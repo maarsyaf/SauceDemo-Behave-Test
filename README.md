@@ -1,5 +1,4 @@
-# Behave Automation - Saucedemo
-
+# SauceDemo Behave Test
 ## 📌 Deskripsi
 Proyek ini adalah automasi pengujian UI untuk situs [Saucedemo](https://www.saucedemo.com) menggunakan **Selenium** dan **Behave**.
 
